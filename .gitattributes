@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
-.github/fsharp-custom-action/** -linguist-vendored
+*.python linguist-derectable=true
+*.html linguist-derectable=false
+
